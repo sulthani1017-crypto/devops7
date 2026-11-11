@@ -1,0 +1,5 @@
+public static void {
+    public static void(string [] args);
+        system.out.println("Hello");
+    }
+}
